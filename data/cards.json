@@ -1,0 +1,38 @@
+[
+    {
+      "_id": 1,
+      "destination": "Cox's Bazar, Bangladesh",
+      "description": "Visit Cox's Bazar, home to the world's longest natural sea beach, for stunning sunsets, water sports, and delicious seafood.",
+      "image": "https://images.unsplash.com/photo-1619177383949-f03975e50b19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1632&q=80",
+      "date": "2023-09-15"
+    },
+    {
+      "_id": 2,
+      "destination": "Sundarbans, Bangladesh",
+      "description": "Explore the Sundarbans, the largest mangrove forest in the world, home to the Bengal tiger and unique biodiversity.",
+      "image": "https://images.unsplash.com/photo-1500463959177-e0869687df26?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "date": "2023-10-10"
+    },
+    {
+      "_id": 3,
+      "destination": "Sreemangal, Bangladesh",
+      "description": "Visit Sreemangal, known as the 'Tea Capital of Bangladesh,' to experience lush tea gardens, wildlife, and serene landscapes.",
+      "image": "https://images.unsplash.com/photo-1682685797703-2bb22dbb885b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
+      "date": "2023-11-05"
+    },
+    {
+      "_id": 4,
+      "destination": "Kuakata, Bangladesh",
+      "description": "Relax on the pristine beaches of Kuakata, the 'Daughter of the Sea,' and enjoy captivating sunrises and sunsets.",
+      "image": "https://images.unsplash.com/photo-1570724842773-870b964fede1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "date": "2023-09-30"
+    },
+    {
+      "_id": 5,
+      "destination": "Sylhet, Bangladesh",
+      "description": "Discover the natural beauty of Sylhet, with its rolling hills, tea gardens, and serene lakes, offering a peaceful retreat.",
+      "image": "https://images.unsplash.com/photo-1491497895121-1334fc14d8c9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "date": "2023-10-20"
+    }
+  ]
+  
